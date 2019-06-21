@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Sledgehammer",
+    "description": "Sledgehammers are <span class=\"label label-info\">$125.76 each</span>",
+    "price": 125.76
+  },
+  {
+    "id": 2,
+    "title": "Axe",
+    "description": "Axes are <span class=\"label label-info\">$190.51 each</span>",
+    "price": 190.51
+  },
+  {
+    "id": 3,
+    "title": "Bandsaw",
+    "description": "Bandsaws are <span class=\"label label-info\">$562.14 each</span>",
+    "price": 562.14
+  },
+  {
+    "id": 4,
+    "title": "Chisel",
+    "description": "Chisels are <span class=\"label label-info\">$13.9 each</span>",
+    "price": 13.9
+  },
+  {
+    "id": 5,
+    "title": "Hacksaw",
+    "description": "Hacksaws are <span class=\"label label-info\">$19.45 each</span>",
+    "price": 19.45
+  }
+]
